@@ -1,8 +1,16 @@
+```md
 <h1 align="center">Hi 👋, I'm Abhinav Mishra</h1>
-<h3 align="center">Backend Developer | Full Stack Enthusiast | DevOps Learner</h3>
 
 <p align="center">
-  Building scalable real-time applications with modern backend technologies 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BCF7&center=true&vCenter=true&width=750&lines=Backend+Developer;Full+Stack+Enthusiast;DevOps+Learner;Building+Scalable+Real-Time+Applications" alt="Typing SVG" />
+</p>
+
+<h3 align="center">
+  Passionate about scalable backend systems, real-time communication, and cloud technologies 🚀
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhiav-spec&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -11,7 +19,7 @@
 
 - 🔭 Currently building: **Real-time Interview Platform using WebSockets**
 - 🌱 Learning: **Advanced Backend, System Design & DevOps**
-- 👯 Open to collaborate on: **Health-tech & scalable backend systems**
+- 👯 Looking to collaborate on: **Health-tech & scalable backend systems**
 - 🤔 Exploring: **WebSocket optimization & distributed systems**
 - 💬 Ask me about: **Node.js, APIs, WebSockets, Databases**
 - 📫 Reach me at: **kumarabhinav6649@gmail.com**
@@ -94,3 +102,4 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+```
