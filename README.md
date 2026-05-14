@@ -100,5 +100,5 @@
 # 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhiav-spec/abhiav-spec/output/ocean.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abhiav-spec/abhiav-spec/output/snake-custom.svg" alt="Snake animation" />
 </div>

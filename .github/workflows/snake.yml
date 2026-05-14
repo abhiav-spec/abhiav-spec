@@ -22,7 +22,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/snake-custom.svg?color_snake=#e6db74&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39&color_background=#d3d3d3
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
