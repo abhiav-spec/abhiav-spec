@@ -76,6 +76,16 @@
 
 ---
 
+# 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Real-time Interview Platform](https://github.com/abhiav-spec/your-repo-link)** | A highly scalable platform for conducting technical interviews with real-time code synchronization and chat. | `Node.js` `Socket.io` `React` `Redis` |
+| **[Project Name 2](https://github.com/abhiav-spec/your-repo-link)** | Short 1-2 sentence description of what the project does and what problem it solves. | `Next.js` `Tailwind` `PostgreSQL` |
+| **[Project Name 3](https://github.com/abhiav-spec/your-repo-link)** | Short 1-2 sentence description of what the project does and what problem it solves. | `Java` `Python` `MongoDB` |
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
