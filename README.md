@@ -79,8 +79,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhiav-spec&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiav-spec&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhiav-spec&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiav-spec&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
