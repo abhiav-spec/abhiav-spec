@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://drive.google.com/file/d/1hWZ_Gv1w7mAW0AV0dx84urr3rQ1SJrwH/view" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BCF7&center=true&vCenter=true&width=300&lines=DOWNLOAD+RESUME+📄" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/Download_Resume-38BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
   </a>
 </p>
 
