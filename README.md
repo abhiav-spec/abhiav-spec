@@ -23,6 +23,7 @@
 - 🤔 Exploring: **WebSocket optimization & distributed systems**
 - 💬 Ask me about: **Node.js, APIs, WebSockets, Databases**
 - 📫 Reach me at: **kumarabhinav6649@gmail.com**
+- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1hWZ_Gv1w7mAW0AV0dx84urr3rQ1SJrwH/view)**
 - ⚡ Fun fact: **I enjoy building systems that scale in real-time**
 
 ---
@@ -40,6 +41,10 @@
 
 <a href="mailto:kumarabhinav6649@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1hWZ_Gv1w7mAW0AV0dx84urr3rQ1SJrwH/view" target="blank">
+<img src="https://img.shields.io/badge/Resume-38BCF7?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 </p>
 
