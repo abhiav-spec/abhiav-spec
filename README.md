@@ -4,6 +4,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BCF7&center=true&vCenter=true&width=750&lines=Backend+Developer;Full+Stack+Enthusiast;DevOps+Learner;Building+Scalable+Real-Time+Applications" alt="Typing SVG" />
 </p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1hWZ_Gv1w7mAW0AV0dx84urr3rQ1SJrwH/view" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BCF7&center=true&vCenter=true&width=300&lines=DOWNLOAD+RESUME+📄" alt="Download Resume" />
+  </a>
+</p>
+
 
 <h3 align="center">
   Passionate about scalable backend systems, real-time communication, and cloud technologies 🚀
