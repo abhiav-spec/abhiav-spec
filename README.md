@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abhinav Mishra</h1>
+<h1 align="center">Hi 👋, I'm Abhinav kumar Mishra</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BCF7&center=true&vCenter=true&width=750&lines=Backend+Developer;Full+Stack+Enthusiast;DevOps+Learner;Building+Scalable+Real-Time+Applications" alt="Typing SVG" />
@@ -29,7 +29,6 @@
 - 🤔 Exploring: **WebSocket optimization & distributed systems**
 - 💬 Ask me about: **Node.js, APIs, WebSockets, Databases**
 - 📫 Reach me at: **kumarabhinav6649@gmail.com**
-- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1hWZ_Gv1w7mAW0AV0dx84urr3rQ1SJrwH/view)**
 - ⚡ Fun fact: **I enjoy building systems that scale in real-time**
 
 ---
